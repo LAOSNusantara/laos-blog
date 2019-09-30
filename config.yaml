@@ -1,7 +1,7 @@
 baseURL: "https://laos-blog.netlify.com/"
 languageCode: "en-us"
 title: "UKM LAOS"
-theme: "timer-hugo"
+theme: "laos-hugo"
 metaDataFormat: "yaml"
 contentDir: "content"
 layoutDir: "layouts"

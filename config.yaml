@@ -28,8 +28,8 @@ params:
     logo: "images/logo.png"
     dateFormat: "6 January 2006"
     # Meta data
-    description: "Airspace Hugo theme"
-    author: "Themefisher"
+    description: "UKM LAOS adalah Unit Kegiatan Mahasiswa di Universitas Jember yang berfokus pada teknologi berbasis Free/Libre Open Source Software (FLOSS)"
+    author: "UKM LAOS"
     # Google Analitycs
     #googleAnalitycsID: "Your ID"
 
